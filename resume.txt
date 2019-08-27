@@ -1,0 +1,55 @@
+<html>
+<head>
+<title> MY RESUME </title>
+</head>
+<body bgcolor = "cyan">
+<h1 align = "center"><font size = "12"><u>CV</u></font></h1><hr size = "4" noshade>
+<img src = "photo.jpg" align = "right" alt = "My photo" border = "5" title = "Ashutosh Choubey">
+<h2 align = "left"><u>NAME</u> :ASHUTOSH CHOUBEY</h2>
+<h2 align = "left"><u>FATHER'S NAME</u> : Mr. NAND KISHOR CHOUBEY</h2>
+<img src = "contact.png" align = "left" alt = "My Contact number" title = "Contact Me"><h2 align = "left">&nbsp;&nbsp;<u>MOBILE NUMBER</u> : 7071853286</h2></img>
+<a href = "https://accounts.google.com/ServiceLogin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail&passive=1209600&sacu=1&ignoreShadow=0&hl=en&acui=0&flowName=GlifWebSignIn&flowEntry=AddSession"><img src = "email.jpg" align = "left" alt = "My EMAIL" title = "Email me"></a><h2 align = "left">&nbsp;&nbsp;<u>EMAIL ID</u> : <a href = "https://mail.google.com/mail/u/3/#inbox">ashutosh24998@gmail.com</a></h2>
+</img></img><hr size = "2" noshade>
+<marquee direction = "right"><b>MY  HTML  RESUME</b></marquee><hr size = "2" noshade>
+<h2 align = "left"> <u>OBJECTIVE</u>:</h2><hr size = "2" noshade>
+<h2 align = "left"><u>ACADEMIC DETAILS</u>:</h2>
+<table border = "5" align = "center">
+<tr>
+<th> CLASS</th>
+<th> BOARD</th>
+<th>YEAR OF PASSING</th>
+<th>TOTAL SCORE(%)</th>
+<th>INSTITUTION NAME<th></tr>
+<tr>
+<td>Class 10<sup>th</sup></td>
+<td>CBSE</td>
+<td>2014</td>
+<td>85</td>
+<td>BANYAN TREE SCHOOL</td></tr>
+<tr>
+<td>Class 12<sup>th</sup></td>
+<td>CBSE</td>
+<td>2016</td>
+<td>74</td>
+<td>BANYAN TREE SCHOOL</td></tr>
+<tr>
+<td>Graduation</td>
+<td>CBSE</td>
+<td>-</td>
+<td><table><tr><th>1<sup>st</sup> year&nbsp;&nbsp;</th><th>2<sup>nd</sup> year&nbsp;&nbsp;</th><th>3<sup>rd</sup> year&nbsp;&nbsp;</th><th>4<sup>th</sup> year</th></tr>
+<tr><td>87%</td><td>85%</td><td> - </td><td> - </td></tr></table></td>
+<td>RAJARSHI RANANJAY SINH INSTITUTE OF MANAGEMENT AND TECHNOLOGY</td></tr></table><hr size = "2" noshade>
+</table> 
+<style>
+.vl {
+  border-left: 3px solid;
+  height: 200px;
+  position: absolute;
+  left : 50%;
+}
+</style>
+<div class="vl"></div>
+<font size = "5" align = "left"><b><u>LANGUAGES KNOWN</b></u>
+<h2 align = "right">Hello</h2></font>
+</body>
+</html>
